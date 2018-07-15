@@ -1,0 +1,1 @@
+int unpack(char *src, char *dst, int bmpSave);
